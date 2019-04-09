@@ -1,0 +1,1 @@
+cmd_/home/alan/MODULOS/Process/PROCESS.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds  --build-id  -o /home/alan/MODULOS/Process/PROCESS.ko /home/alan/MODULOS/Process/PROCESS.o /home/alan/MODULOS/Process/PROCESS.mod.o ;  true
