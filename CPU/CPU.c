@@ -1,4 +1,4 @@
-
+﻿
 //Librerías 
 #include <linux/kernel.h>
 #include <linux/module.h>
@@ -204,6 +204,6 @@ static void __exit clean_function(void)
 module_init(start_function);
 module_exit(clean_function);
  
-MODULE_AUTHOR("Luis Enrique Ramírez Milián");
+MODULE_AUTHOR("Alan Giovanni Guzman Toledo");
 MODULE_DESCRIPTION("Modulo de kernel que escribe en un archivo llamado 'CPU_stat' informacion del CPU");
 MODULE_LICENSE("GPL");
