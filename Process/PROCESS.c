@@ -11,7 +11,7 @@
 #include <linux/proc_fs.h>
 
 
-#define FileProc "Process_stat"
+#define FileProc "cpu_201314733"
 /*Link de Información 
     http://www.makelinux.net/books/lkd2/ch03lev1sec1
     Descripción del proceso en la parte de The prcess Family Tree

@@ -16,7 +16,7 @@
 #include <linux/vmstat.h>
 #include <linux/atomic.h>
 
-#define FileProc "Memory_Stat"
+#define FileProc "memo_201314733"
 struct sysinfo i;
 
 
